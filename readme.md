@@ -7,3 +7,13 @@
 ### Link to Article by Cleveland Clinic
 [Cholesterol Article](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean)
 
+### Publicly Accessible Endpoint URL
+[Google Cloud](https://blood-pressure-280336111434.europe-west1.run.app)
+[Azure]()
+
+
+### Loom
+[Google Cloud]()
+[Azure]()
+
+### Which one is better
