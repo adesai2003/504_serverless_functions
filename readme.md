@@ -5,5 +5,5 @@
 ### The rule I implemented is that if the range is from 200 - 239 then somone is "At Risk". If the range is less than 200 then somone is "Heart Healthy". If the range is less than 200 then someone is "Heart Healthy"
 
 ### Link to Article by Cleveland Clinic
-[Cholesterol Article]('https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean')
+[Cholesterol Article](https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean)
 
