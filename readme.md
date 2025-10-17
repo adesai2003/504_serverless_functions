@@ -13,6 +13,7 @@
 
 ### Publicly Accessible Endpoint URL
 [Google Cloud](https://blood-pressure-280336111434.europe-west1.run.app)
+
 [Azure](https://cholesterol-test-dev-xyz-ajftcnexhngpe8e4.westus-01.azurewebsites.net)
 
 
